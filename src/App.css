@@ -945,6 +945,7 @@ nav .navbar .list-item .dropdown {
     bottom: 0;
     right: -90%;
     height: 750px;
+    width: auto;
   }
 
   .content-imgs .big-star {
