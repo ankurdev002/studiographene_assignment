@@ -8,9 +8,9 @@ import navprod from "../assets/navprod.png";
 import AliceCarousel from "react-alice-carousel";
 
 const responsive = {
-  0: { items: 1 },
-  568: { items: 2 },
-  1024: { items: 3 },
+  0: { items: 1.2 },
+  568: { items: 2.2 },
+  1024: { items: 3.2 },
 };
 
 const NewProduct = () => {
